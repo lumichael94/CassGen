@@ -1,0 +1,8 @@
+{
+  "name": "CassGen",
+  "dependencies": {
+    "async": "^1.4.0",
+    "cassandra-driver": "^2.1.2",
+    "faker": "^3.0.0"
+  }
+}
